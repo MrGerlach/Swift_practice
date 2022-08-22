@@ -2,9 +2,6 @@ Hi all,
 
 Here you cand find some of my little Swift projects for practice. 
 
-## Is-he-gonna-survive 
-Each dragon takes 2 bullets to be defeated, our hero has no idea how many bullets he should carry.. Assuming he's gonna grab a specific given number of bullets and move forward to fight another specific given number of dragons, will he survive? Return True if yes, False otherwise
-
 ## Count-the-digit 
 Take an integer n (n >= 0) and a digit d (0 <= d <= 9) as an integer.
 
@@ -26,5 +23,13 @@ Finish the solution so that it returns the sum of all the multiples of 3 or 5 be
 
 Note: If the number is a multiple of both 3 and 5, only count it once.
 
+## MagicCalculator
+Created advanced calculator which can not only add, substract or multiply but it can also sort, map and filter values.
+Contains closures and Bubble Sort Algorythm.
+
 ## RomanNumeralDecoder
 Create a function that takes a Roman numeral as its argument and returns its value as a numeric decimal integer. You don't need to validate the form of the Roman numeral.
+
+## Is-he-gonna-survive 
+Each dragon takes 2 bullets to be defeated, our hero has no idea how many bullets he should carry.. Assuming he's gonna grab a specific given number of bullets and move forward to fight another specific given number of dragons, will he survive? Return True if yes, False otherwise
+
